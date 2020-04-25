@@ -1,16 +1,29 @@
-# burn
+#  Burn top 20 exercises - Flutter app
 
-A new Flutter project.
+ #### FEATURE ✨ 
+ A simple flutter app that shows top 20 home exercises and a gif to demonstrate how to do.
 
-## Getting Started
+------------
 
-This project is a starting point for a Flutter application.
+##  SCREENSHOTS 📸
+<img src="https://i.ibb.co/4TjbjqH/Screenshot-2020-04-25-15-37-57-325-com-example-burn.jpgv" width="250" style="border-radius: 15px">&nbsp;&nbsp;&nbsp; <img src="https://i.ibb.co/5MF9wjg/Screenshot-2020-04-25-15-38-11-037-com-example-burn.jpg" width="250" style="border-radius: 15px">
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##  Installation Steps 💻
+-  Install any IDE along with flutter
+- Any virtual device or USB debugging with device
+- Fork or download and run
+- Open terminal in that folder and enter the command
+
+`$ flutter run`
+
+- To build apk enter the command
+
+`$ flutter build apk`
+
+
+------------
+
+> Feel free to star ⭐ this repository.
+
