@@ -1,7 +1,7 @@
 #  Burn top 20 exercises - Flutter app
 
  #### FEATURE ✨ 
- A simple flutter app that shows top 20 home exercises and a gif to demonstrate how to do.
+ A simple flutter app that shows top 20 home exercises and a gif to demonstrate how to do. 
 
 ------------
 
